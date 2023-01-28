@@ -1,0 +1,93 @@
+
+.main{
+    width: 700px;
+    height: 600px;
+    background-color: grey;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.secondary{
+    width: 600px;
+    height: 500px;
+    background-color: pink;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.project{
+    width: 500px;
+    height: 350px;
+    background-color: black;
+    padding-left: 20px;
+    padding-top: 70px;
+
+}
+.login{
+   padding-left: 180px;
+   margin-top: 20px;
+   color: whitesmoke;
+   font-weight: 900;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para{
+    padding-left: 100px;
+    font-weight: 200;
+    font-family: monospace;
+    color: whitesmoke;
+}
+.username{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 15px;
+    border-color: skyblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+    font-weight: 700;
+    color: deeppink  ;
+}
+.password{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 15px;
+    border-color: skyblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+    font-weight: 700;
+    color: deepskyblue;   
+}
+.forget{
+    padding-left: 170px;
+    padding-top: 20px;
+    color: aliceblue;
+    font-weight: 500;
+    font-family: monospace;
+}
+.forget:hover{
+    color:chocolate;
+}
+.btn{
+    width: 90px;
+    height: 37px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-color: green;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.btn:hover{
+    border-color: greenyellow;
+    width: 95px;
+    height: 37px;
+    color: red;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5QQTnT2MGzo5U_k7kyUW7EJZ5Qxf4_y1DA&usqp=CAU);
+    
+    background-size: cover;
+}
